@@ -1,0 +1,39 @@
+.primary-font {
+    font-family: 'Roboto', sans-serif;
+}
+
+.primary-color {
+    background-color: #603F83;
+    color: #C7D3D4FF
+}
+
+.secondary-color {
+    background-color: #C7D3D4;
+    color: #603F83
+}
+
+.warning-color {
+    color: #CC3300;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.empty-row {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 50px;
+}
